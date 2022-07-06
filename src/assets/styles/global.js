@@ -24,9 +24,9 @@ export default createGlobalStyle`
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-family: sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 1.6rem;
-    background: #F0F2F5;
+    background: #171C29;
   }
 
   img, picture, video, canvas, svg {
