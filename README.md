@@ -1,6 +1,6 @@
 <h1 align='center'>A wonderful table of users!<h1>
 
-# :pushpin: Table of Contents
+# :pushpin: Contents
 
 - [Features](#zap-features)
 - [Getting started](#runner-getting-started)
