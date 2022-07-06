@@ -95,6 +95,16 @@ export const DataTable = styled(Table)`
   }
 
   @media screen and (max-width: 800px) {
+    span {
+      font-size: 1rem;
+    }
+
+    .ant-table-cell {
+      padding: .8rem;
+      font-size: 1rem;
+
+    }
+
     th.ant-table-cell {
       padding: .8rem;
     }

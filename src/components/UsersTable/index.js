@@ -171,6 +171,7 @@ function UsersTable() {
       dataIndex: ['picture', 'thumbnail'],
       key: 'picture',
       align: 'center',
+      responsive: ['sm'],
       render: (img, user) => (
         <S.Thumbnail
           alt={`${user.name.first} ${user.name.last}`}
