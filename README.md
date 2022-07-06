@@ -1,4 +1,4 @@
-<p align='center'>:mag_right: A wonderful table of users!<p>
+<h1 align='center'>A wonderful table of users!<h1>
 
 # :pushpin: Table of Contents
 
