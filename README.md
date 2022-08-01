@@ -1,5 +1,9 @@
 <h1 align='center'>A wonderful table of users!<h1>
 
+<p align="center">
+  <img src="github/app.jpg" alt="Users Table App">
+</p>
+
 # :pushpin: Contents
 
 - [Features](#zap-features)
